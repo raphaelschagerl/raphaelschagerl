@@ -1,5 +1,9 @@
 # 💫 Hi, I'm Raphael!
-🔭 Trained economist and data analyst sharing my ongoing and completed projects.<br>🌱 Check out my [Now](https://raphaelschagerl.com/now/) page for info on what I am up to now.<br>👯 I write about [personal reinvention](https://raphaelschagerl.com/) on my blog and about breaking into data analytics on [LinkedIn](https://www.linkedin.com/in/raphaelschagerl/).<br>💬 As much as time permits, I dive into AI co-evolution. Practical projects, theoretical considerations, societal implications.<br>⚡ Superpower: I can build anything from a YouTube tutorial. 
+🔭 Trained economist and data analyst sharing my ongoing and completed projects.<br>🌱
+
+As much as time permits, I dive into AI co-evolution. Practical projects, theoretical considerations, societal implications.<br>
+
+⚡ Superpower: I can build anything from a YouTube tutorial. 
 
 
 ## 🌐 Socials
