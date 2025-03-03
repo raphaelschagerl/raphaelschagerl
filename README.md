@@ -1,7 +1,5 @@
 # 💫 Hi, I'm Raphael!
-🔭 Trained economist and data analyst sharing my ongoing and completed projects.<br>
-
-🌱 As much as time permits, I dive into AI co-evolution. Practical projects, theoretical considerations, societal implications.<br>
+🔭 Indie Maker & AI Engineer in training | Economist & Solutions Engineer <br>
 
 ⚡ Superpower: I can build anything from a YouTube tutorial. 
 
